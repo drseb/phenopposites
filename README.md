@@ -1,2 +1,2 @@
 # phenopposites
-Project to generated phenotype opposite_of relationships and investigate the effect on ontology-based algorithms
+Project to generate phenotype opposite_of relationships in PATO, MPO and HPO. We also investigate the effect including this reltionship in ontology-based algorithms like semantic similarity.
